@@ -27,6 +27,12 @@ Aplicación web con roles de administrador, vigilante y superadministrador para 
 
 `Laravel` `MySQL` `Blade`
 
+### [Checklist EPV.10](https://github.com/iNxTSam/Checklist-EPV.10)
+
+Aplicación para gestionar las evidencias de la etapa productiva del SENA: los aprendices cargan documentos y los instructores los revisan por ficha, con roles diferenciados. Desarrollada a solicitud de un instructor.
+
+`Laravel` `SQLite` `Blade`
+
 ### [Sitio web y despliegue en Oracle Cloud](https://github.com/iNxTSam/taller-nginx-web)
 
 Sitio responsive publicado en una VM Oracle Linux con Nginx, firewall, SELinux y dominio DuckDNS, con documentación técnica del proceso.
