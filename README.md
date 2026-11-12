@@ -1,6 +1,6 @@
 # Hola, soy Samuel 👋
 
-**Desarrollador web junior · Estudiante de Ingeniería de Software**
+**Desarrollador backend junior · Estudiante de Ingeniería de Software**
 
 Estudiante de Ingeniería de Software en Uniempresarial y tecnólogo en Análisis y Desarrollo de Software del SENA. Trabajo con Laravel, PHP y bases de datos relacionales; me interesa el desarrollo backend, las APIs y el despliegue de aplicaciones.
 
@@ -42,4 +42,5 @@ Sitio responsive publicado en una VM Oracle Linux con Nginx, firewall, SELinux y
 ## Contacto
 
 - **Correo:** inxtsam@gmail.com
+- **LinkedIn:** [samuel-prieto-lozano](https://www.linkedin.com/in/samuel-prieto-lozano/)
 - **Ubicación:** Bogotá, Colombia
