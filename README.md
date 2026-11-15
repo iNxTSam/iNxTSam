@@ -17,7 +17,7 @@ Actualmente busco un rol de medio tiempo en desarrollo, soporte o gestión de in
 
 ### [App Tareas](https://github.com/iNxTSam/appTareas_Final)
 
-API REST y aplicación web para gestión de proyectos y tareas: autenticación por tokens Sanctum, roles, adjuntos, dependencias y reportes. 191 pruebas automatizadas con PHPUnit, integración continua en GitHub Actions y despliegue con Docker Compose.
+API REST y aplicación web para gestión de proyectos y tareas: autenticación por tokens Sanctum, roles, adjuntos, dependencias y reportes. Integración continua en GitHub Actions y despliegue con Docker Compose.
 
 `Laravel` `PostgreSQL` `Docker`
 
