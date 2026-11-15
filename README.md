@@ -8,10 +8,10 @@ Actualmente busco un rol de medio tiempo en desarrollo, soporte o gestión de in
 
 ## Stack
 
-**Backend** · PHP · Laravel · Sanctum · API REST · MVC · Blade · Node.js · Express
-**Frontend** · React · JavaScript · HTML · CSS · Tailwind CSS · Vite
-**Bases de datos** · MySQL · PostgreSQL
-**Herramientas** · Git · GitHub · GitHub Actions · Docker · Linux · Nginx · PHPUnit · Composer
+- **Backend** · PHP · Laravel · Sanctum · API REST · MVC · Blade · Node.js · Express
+- **Frontend** · React · JavaScript · HTML · CSS · Tailwind CSS · Vite
+- **Bases de datos** · MySQL · PostgreSQL
+- **Herramientas** · Git · GitHub · GitHub Actions · Docker · Linux · Nginx · PHPUnit · Composer
 
 ## Proyectos destacados
 
